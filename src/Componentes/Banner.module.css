@@ -1,0 +1,21 @@
+.bannerHome {
+    display: block;
+      padding: 40px;
+    justify-content: center;
+     height: 30vh;
+    position: relative;
+background-color: brown;  
+    background-repeat: no-repeat;
+    box-shadow: 0px 30px 30px 0px black inset, 0px -30px 30px 0 black inset; 
+
+}
+
+.cabezalIntro {
+  background-color: brown;  
+background-image: url('./Netflix_fondo.jpg');
+background-size:100%;
+background-repeat: no-repeat;
+
+  width: 100%;
+  height: 30vh;
+}

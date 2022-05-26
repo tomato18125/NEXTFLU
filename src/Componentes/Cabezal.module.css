@@ -1,0 +1,81 @@
+.granContenedor {
+
+    display: block;
+     justify-content: center;
+     height: 60vh;
+    position: relative;
+    /* background-image: url("https://image.tmdb.org/t/p/w300/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg"), linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 000000%, rgba(255,255,255,0) 10%, rgba(255,255,255,0) 90%, rgba(0,0,0,1) 100%); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0px 30px 30px 0px black inset, 0px -30px 30px 0 black inset; 
+    z-index: 0;
+
+}
+
+.soloContenedor {
+
+   
+    padding: 40px;
+   
+
+}
+
+.botonesFlex {
+
+    display: flex;
+}
+
+
+.cabezal {
+  position: relative;
+}
+
+
+.imagenCabezal {
+
+  display: block;
+  padding: -40px;
+justify-content: center;
+ height: 60vh;
+ width: 100%;
+position: absolute;
+background-size: cover;
+background-repeat: no-repeat;
+box-shadow: 0px 30px 30px 0px black inset, 0px -30px 30px 0 black inset; 
+z-index: 1;
+
+
+}
+
+
+
+.usuarioInfo {
+position: fixed;
+top: 30px;
+left: 10px;
+color: grey;
+font-size: 0.7rem;
+
+
+
+
+}
+
+.cajaTexto {
+width: 300px;
+color: aliceblue;
+ overflow:scroll;
+margin-bottom: 10px;
+margin-top: 10px;
+
+}
+
+
+.fondo {
+width: 100%;
+height: 60vh;
+
+
+
+
+}

@@ -1,0 +1,85 @@
+.logo {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+margin-top: 10%;
+    color:white;
+    font-size: 3rem;
+    text-shadow: 1px 1px 8px black;
+}
+
+
+.textoSerie {
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    font-weight: 500;
+margin-top: 20px;
+color: white;
+font-size: 1rem;
+margin-bottom: 15px;
+width: 300px;
+height: 100px;
+text-shadow: 1px 1px 8px black;
+
+
+
+
+}
+
+.repro {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+border-radius: 5px;
+background-color: white;
+width: 150px;
+height: 30px;
+text-transform: uppercase;
+border: 3px solid grey;
+
+}
+
+.masInfo {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    display: flex;
+    font-size: 0.8rem;
+    justify-content: center;
+    align-items: center;
+    color: white;
+border-radius: 5px;
+background-color: rgb(0,0,0);opacity:0.8;
+margin-left: 10px;
+width: 150px;
+height: 30px;
+text-transform: uppercase;
+border: 3px solid grey;
+}
+
+.cajaTexto {
+width: 300px;
+background-color: antiquewhite;
+border: 1px solid;
+
+}
+
+.flecha {
+
+    position: relative;
+    right: 20px;
+    top:50%;
+    text-shadow: 1px 1px 8px black;
+
+}
+
+.contenedorFlechas {
+    cursor: pointer;
+    display: flex;
+justify-content: space-between;
+margin-top: 30px;
+color: white;
+font-size: 3rem;
+
+}

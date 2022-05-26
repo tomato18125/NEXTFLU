@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,600;1,300;1,500&family=Yanone+Kaffeesatz:wght@200;500&display=swap');
+
+
+.tituloSerie {
+
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+border-top: 1px solid grey;
+padding-top: 10px;
+display: flex;
+flex-direction: row;
+color: azure;
+margin: 30px auto 10px 20px;
+font-size: 1.5rem;
+
+}
